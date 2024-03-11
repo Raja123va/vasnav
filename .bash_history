@@ -1,0 +1,119 @@
+ls -ltr
+ls -l
+touch file
+ls
+ls-l
+which ipconfig
+bash
+touch raja.txt
+ls
+touch raja.txt
+ls
+chmod 764
+sudo chmod 764
+chmod --help
+ls
+sudo chmod +764
+chmod + 764
+clear
+vi raja.txt
+chmod + 764
+ls
+chmod --help
+chmod +r 764
+chmod raja.txt
+chmod +raja.txt
+chmod --help
+chmod +764 raja.txt
+ls
+ls -l
+cd desktop
+mkdir text
+ls
+path
+clear
+touch text.txt
+chmod + 764 text.txt
+ls
+chmod 764 text.txt
+ls
+ls -l
+chmod 770 text.txt
+ls -l
+clear
+touch 123.txt
+ls
+chmod 764 123.txt
+ls -l
+clear
+nslookup guvi.in
+free guvi.in
+free -b guvi.in
+free(1)
+free-b
+free -b guvi.in
+-b
+top cmd guvi.in
+free --help
+free guvi.in
+free --bytes
+free --bytes guvi.in
+clear
+free guvi.in
+free --bytes
+free guvi.in --bytes
+clear
+free guvi.in
+free --bytes
+top guvi.in
+mstat
+mpstat
+top
+ping guvi.in
+telnet.ncclear
+telnet.nc guvi.in
+telnet guvi.in
+clear
+ping guvi.in
+netstat-plaunt|grep guvi.com:9000
+netstat -plaunt|grep guvi.com:9000
+netstat --help
+netstat
+sudo apt install netstat
+sudo yum install net-tools 
+sudo apt install net-tools
+netstat -plaunt | grep guvi.com:9000
+sudo netstat -plaunt | grep guvi.com:9000
+ls
+clear
+netstat -plaunt |grep guvi.com:9000
+netstat --help
+sudo netstat -plaunt | grep guvi.com:9000
+netstat -aon
+netstat -a guvi.com:9000
+clear
+netstat -plaunt | grep guvi.com:9000
+clear
+sudo netstat -plaunt | grep guvi.com:9000
+netstat -a guvi.com:9000
+ping guvi.in
+clear
+pws
+pwd
+clear
+mkdir guvi
+vi class.sh
+ls
+git init
+git status
+clear
+ls
+git add .
+git rm --deploy
+clear
+mkdir class
+vi script.sh
+ls
+git add .
+git status
+git commit 
