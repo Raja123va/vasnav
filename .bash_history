@@ -117,3 +117,16 @@ ls
 git add .
 git status
 git commit 
+git commit "first commit"
+clear
+ls
+git add .
+ls
+git status
+git commit -m "first commit"
+git config --global user.name Raja123va
+ls
+clear
+git config global user.name "Raja123va
+clear
+git status
