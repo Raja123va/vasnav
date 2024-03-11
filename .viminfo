@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1710170397,,"wq"
+|2,0,1710171328,,"wq"
 :q
 |2,0,1710162077,,"q"
 
@@ -30,32 +30,46 @@
 |3,1,36,0,1,0,1710162086,"n"
 
 # File marks:
-'0  3  16  ~/script.sh
-|4,48,3,16,1710170397,"~/script.sh"
-'1  3  17  ~/script.sh
-|4,49,3,17,1710166310,"~/script.sh"
-'2  3  17  ~/class.sh
-|4,50,3,17,1710165723,"~/class.sh"
-'3  1  20  ~/deploy/wel
-|4,51,1,20,1710162970,"~/deploy/wel"
-'4  1  10  ~/deploy/welcomeraja.sh
-|4,52,1,10,1710162094,"~/deploy/welcomeraja.sh"
-'5  30  33  ~/deploy/welcomeraja.sh
-|4,53,30,33,1710161628,"~/deploy/welcomeraja.sh"
-'6  29  33  ~/deploy/welcomeraja.sh
-|4,54,29,33,1710161628,"~/deploy/welcomeraja.sh"
-'7  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,55,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
+'0  9  19  ~/raja.sh
+|4,48,9,19,1710171328,"~/raja.sh"
+'1  3  16  ~/script.sh
+|4,49,3,16,1710170397,"~/script.sh"
+'2  3  17  ~/script.sh
+|4,50,3,17,1710166310,"~/script.sh"
+'3  3  17  ~/class.sh
+|4,51,3,17,1710165723,"~/class.sh"
+'4  1  20  ~/deploy/wel
+|4,52,1,20,1710162970,"~/deploy/wel"
+'5  1  10  ~/deploy/welcomeraja.sh
+|4,53,1,10,1710162094,"~/deploy/welcomeraja.sh"
+'6  30  33  ~/deploy/welcomeraja.sh
+|4,54,30,33,1710161628,"~/deploy/welcomeraja.sh"
+'7  29  33  ~/deploy/welcomeraja.sh
+|4,55,29,33,1710161628,"~/deploy/welcomeraja.sh"
+'8  3  7  /mnt/c/Users/WELCOME/raja.txt
+|4,56,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
 
 # Jumplist (newest first):
+-'  9  19  ~/raja.sh
+|4,39,9,19,1710171328,"~/raja.sh"
+-'  1  0  ~/raja.sh
+|4,39,1,0,1710171252,"~/raja.sh"
 -'  3  16  ~/script.sh
 |4,39,3,16,1710170397,"~/script.sh"
+-'  3  16  ~/script.sh
+|4,39,3,16,1710170397,"~/script.sh"
+-'  3  17  ~/script.sh
+|4,39,3,17,1710166310,"~/script.sh"
 -'  3  17  ~/script.sh
 |4,39,3,17,1710166310,"~/script.sh"
 -'  1  0  ~/script.sh
 |4,39,1,0,1710166290,"~/script.sh"
 -'  1  0  ~/script.sh
 |4,39,1,0,1710166290,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1710166290,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1710166290,"~/script.sh"
 -'  3  17  ~/class.sh
 |4,39,3,17,1710165723,"~/class.sh"
 -'  3  17  ~/class.sh
@@ -64,6 +78,22 @@
 |4,39,3,17,1710165723,"~/class.sh"
 -'  3  17  ~/class.sh
 |4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  1  0  ~/class.sh
+|4,39,1,0,1710165649,"~/class.sh"
+-'  1  0  ~/class.sh
+|4,39,1,0,1710165649,"~/class.sh"
+-'  1  0  ~/class.sh
+|4,39,1,0,1710165649,"~/class.sh"
+-'  1  0  ~/class.sh
+|4,39,1,0,1710165649,"~/class.sh"
 -'  1  0  ~/class.sh
 |4,39,1,0,1710165649,"~/class.sh"
 -'  1  0  ~/class.sh
@@ -88,6 +118,54 @@
 |4,39,1,20,1710162970,"~/deploy/wel"
 -'  1  20  ~/deploy/wel
 |4,39,1,20,1710162970,"~/deploy/wel"
+-'  1  20  ~/deploy/wel
+|4,39,1,20,1710162970,"~/deploy/wel"
+-'  1  20  ~/deploy/wel
+|4,39,1,20,1710162970,"~/deploy/wel"
+-'  1  20  ~/deploy/wel
+|4,39,1,20,1710162970,"~/deploy/wel"
+-'  1  20  ~/deploy/wel
+|4,39,1,20,1710162970,"~/deploy/wel"
+-'  1  20  ~/deploy/wel
+|4,39,1,20,1710162970,"~/deploy/wel"
+-'  1  20  ~/deploy/wel
+|4,39,1,20,1710162970,"~/deploy/wel"
+-'  1  20  ~/deploy/wel
+|4,39,1,20,1710162970,"~/deploy/wel"
+-'  1  20  ~/deploy/wel
+|4,39,1,20,1710162970,"~/deploy/wel"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  10  ~/deploy/welcomeraja.sh
+|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
 -'  1  10  ~/deploy/welcomeraja.sh
 |4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
 -'  1  10  ~/deploy/welcomeraja.sh
@@ -152,104 +230,35 @@
 |4,39,30,33,1710161975,"~/deploy/welcomeraja.sh"
 -'  30  33  ~/deploy/welcomeraja.sh
 |4,39,30,33,1710161975,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  29  33  ~/deploy/welcomeraja.sh
-|4,39,29,33,1710161628,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  1  0  ~/deploy/welcomeraja.sh
-|4,39,1,0,1710161482,"~/deploy/welcomeraja.sh"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
--'  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,39,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
+-'  30  33  ~/deploy/welcomeraja.sh
+|4,39,30,33,1710161975,"~/deploy/welcomeraja.sh"
+-'  30  33  ~/deploy/welcomeraja.sh
+|4,39,30,33,1710161975,"~/deploy/welcomeraja.sh"
+-'  30  33  ~/deploy/welcomeraja.sh
+|4,39,30,33,1710161975,"~/deploy/welcomeraja.sh"
+-'  30  33  ~/deploy/welcomeraja.sh
+|4,39,30,33,1710161975,"~/deploy/welcomeraja.sh"
+-'  30  33  ~/deploy/welcomeraja.sh
+|4,39,30,33,1710161975,"~/deploy/welcomeraja.sh"
+-'  30  33  ~/deploy/welcomeraja.sh
+|4,39,30,33,1710161975,"~/deploy/welcomeraja.sh"
+-'  30  33  ~/deploy/welcomeraja.sh
+|4,39,30,33,1710161975,"~/deploy/welcomeraja.sh"
+-'  30  33  ~/deploy/welcomeraja.sh
+|4,39,30,33,1710161975,"~/deploy/welcomeraja.sh"
+-'  30  33  ~/deploy/welcomeraja.sh
+|4,39,30,33,1710161975,"~/deploy/welcomeraja.sh"
+-'  30  33  ~/deploy/welcomeraja.sh
+|4,39,30,33,1710161975,"~/deploy/welcomeraja.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/raja.sh
+	*	1710171325	0
+	"	9	19
+	^	9	20
+	.	9	19
+	+	9	19
 
 > ~/script.sh
 	*	1710170392	0

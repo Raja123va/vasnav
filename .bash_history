@@ -140,3 +140,37 @@ git user
 git config --list
 git push origin "aasignment"
 git push origin master
+ls
+git add.
+clear
+ls
+git add .
+git status
+git commit -m "first commit"
+git remote add origin <remote repository URL>
+clear
+git remote add origin <remote repository URL>
+clear
+ls
+git add .
+git status
+git commit -m "first commit"
+git remote origin https://github.com/Raja123va/start1.git
+git remote add origin https://github.com/Raja123va/start1.git
+git remote -v
+git push origin master
+git branch
+clear
+mkdir assignment
+vi script.sh
+./sh
+./script.sh
+chmod +x script.sh
+./script.sh
+git add .
+git status
+git commit -m "first commit"
+git remote add origin https://github.com/Raja123va/Alpha1.git
+clear
+git remote add origin https://github.com/Raja123va/Alpha1.git
+clear
