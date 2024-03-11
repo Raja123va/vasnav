@@ -174,3 +174,16 @@ git remote add origin https://github.com/Raja123va/Alpha1.git
 clear
 git remote add origin https://github.com/Raja123va/Alpha1.git
 clear
+git remote add origin https://github.com/Raja123va/Alpha1.git
+clear
+mkdir vasanth
+vi raja.sh
+cat raja.sh
+git add
+git add .
+git status
+git commit -m "first commit"
+git remote add origin https://github.com/Raja123va/Alpha1.git
+git push origin "vasanth"
+git push origin vasanth
+git push origin master
