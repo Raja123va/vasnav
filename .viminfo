@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1710171747,,"wq"
+|2,0,1710173856,,"wq"
 :q
 |2,0,1710162077,,"q"
 
@@ -30,36 +30,52 @@
 |3,1,36,0,1,0,1710162086,"n"
 
 # File marks:
-'0  9  19  ~/beta.sh
-|4,48,9,19,1710171747,"~/beta.sh"
-'1  9  19  ~/raja.sh
-|4,49,9,19,1710171328,"~/raja.sh"
-'2  3  16  ~/script.sh
-|4,50,3,16,1710170397,"~/script.sh"
-'3  3  17  ~/script.sh
-|4,51,3,17,1710166310,"~/script.sh"
-'4  3  17  ~/class.sh
-|4,52,3,17,1710165723,"~/class.sh"
-'5  1  20  ~/deploy/wel
-|4,53,1,20,1710162970,"~/deploy/wel"
-'6  1  10  ~/deploy/welcomeraja.sh
-|4,54,1,10,1710162094,"~/deploy/welcomeraja.sh"
-'7  30  33  ~/deploy/welcomeraja.sh
-|4,55,30,33,1710161628,"~/deploy/welcomeraja.sh"
-'8  29  33  ~/deploy/welcomeraja.sh
-|4,56,29,33,1710161628,"~/deploy/welcomeraja.sh"
-'9  3  7  /mnt/c/Users/WELCOME/raja.txt
-|4,57,3,7,1708956621,"/mnt/c/Users/WELCOME/raja.txt"
+'0  3  0  ~/text.sh
+|4,48,3,0,1710173856,"~/text.sh"
+'1  9  19  ~/beta.sh
+|4,49,9,19,1710171747,"~/beta.sh"
+'2  9  19  ~/raja.sh
+|4,50,9,19,1710171328,"~/raja.sh"
+'3  3  16  ~/script.sh
+|4,51,3,16,1710170397,"~/script.sh"
+'4  3  17  ~/script.sh
+|4,52,3,17,1710166310,"~/script.sh"
+'5  3  17  ~/class.sh
+|4,53,3,17,1710165723,"~/class.sh"
+'6  1  20  ~/deploy/wel
+|4,54,1,20,1710162970,"~/deploy/wel"
+'7  1  10  ~/deploy/welcomeraja.sh
+|4,55,1,10,1710162094,"~/deploy/welcomeraja.sh"
+'8  30  33  ~/deploy/welcomeraja.sh
+|4,56,30,33,1710161628,"~/deploy/welcomeraja.sh"
+'9  29  33  ~/deploy/welcomeraja.sh
+|4,57,29,33,1710161628,"~/deploy/welcomeraja.sh"
 
 # Jumplist (newest first):
+-'  3  0  ~/text.sh
+|4,39,3,0,1710173856,"~/text.sh"
+-'  1  0  ~/text.sh
+|4,39,1,0,1710173832,"~/text.sh"
 -'  9  19  ~/beta.sh
 |4,39,9,19,1710171747,"~/beta.sh"
+-'  9  19  ~/beta.sh
+|4,39,9,19,1710171747,"~/beta.sh"
+-'  1  0  ~/beta.sh
+|4,39,1,0,1710171707,"~/beta.sh"
 -'  1  0  ~/beta.sh
 |4,39,1,0,1710171707,"~/beta.sh"
 -'  9  19  ~/raja.sh
 |4,39,9,19,1710171328,"~/raja.sh"
 -'  9  19  ~/raja.sh
 |4,39,9,19,1710171328,"~/raja.sh"
+-'  9  19  ~/raja.sh
+|4,39,9,19,1710171328,"~/raja.sh"
+-'  9  19  ~/raja.sh
+|4,39,9,19,1710171328,"~/raja.sh"
+-'  1  0  ~/raja.sh
+|4,39,1,0,1710171252,"~/raja.sh"
+-'  1  0  ~/raja.sh
+|4,39,1,0,1710171252,"~/raja.sh"
 -'  1  0  ~/raja.sh
 |4,39,1,0,1710171252,"~/raja.sh"
 -'  1  0  ~/raja.sh
@@ -72,6 +88,22 @@
 |4,39,3,16,1710170397,"~/script.sh"
 -'  3  16  ~/script.sh
 |4,39,3,16,1710170397,"~/script.sh"
+-'  3  16  ~/script.sh
+|4,39,3,16,1710170397,"~/script.sh"
+-'  3  16  ~/script.sh
+|4,39,3,16,1710170397,"~/script.sh"
+-'  3  16  ~/script.sh
+|4,39,3,16,1710170397,"~/script.sh"
+-'  3  16  ~/script.sh
+|4,39,3,16,1710170397,"~/script.sh"
+-'  3  17  ~/script.sh
+|4,39,3,17,1710166310,"~/script.sh"
+-'  3  17  ~/script.sh
+|4,39,3,17,1710166310,"~/script.sh"
+-'  3  17  ~/script.sh
+|4,39,3,17,1710166310,"~/script.sh"
+-'  3  17  ~/script.sh
+|4,39,3,17,1710166310,"~/script.sh"
 -'  3  17  ~/script.sh
 |4,39,3,17,1710166310,"~/script.sh"
 -'  3  17  ~/script.sh
@@ -96,6 +128,54 @@
 |4,39,1,0,1710166290,"~/script.sh"
 -'  1  0  ~/script.sh
 |4,39,1,0,1710166290,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1710166290,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1710166290,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1710166290,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1710166290,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1710166290,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1710166290,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1710166290,"~/script.sh"
+-'  1  0  ~/script.sh
+|4,39,1,0,1710166290,"~/script.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
+-'  3  17  ~/class.sh
+|4,39,3,17,1710165723,"~/class.sh"
 -'  3  17  ~/class.sh
 |4,39,3,17,1710165723,"~/class.sh"
 -'  3  17  ~/class.sh
@@ -160,100 +240,27 @@
 |4,39,1,0,1710165649,"~/class.sh"
 -'  1  0  ~/class.sh
 |4,39,1,0,1710165649,"~/class.sh"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  20  ~/deploy/wel
-|4,39,1,20,1710162970,"~/deploy/wel"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
--'  1  10  ~/deploy/welcomeraja.sh
-|4,39,1,10,1710162094,"~/deploy/welcomeraja.sh"
+-'  1  0  ~/class.sh
+|4,39,1,0,1710165649,"~/class.sh"
+-'  1  0  ~/class.sh
+|4,39,1,0,1710165649,"~/class.sh"
+-'  1  0  ~/class.sh
+|4,39,1,0,1710165649,"~/class.sh"
+-'  1  0  ~/class.sh
+|4,39,1,0,1710165649,"~/class.sh"
+-'  1  0  ~/class.sh
+|4,39,1,0,1710165649,"~/class.sh"
+-'  1  0  ~/class.sh
+|4,39,1,0,1710165649,"~/class.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/text.sh
+	*	1710173848	0
+	"	3	0
+	^	3	0
+	.	2	6
+	+	2	6
 
 > ~/beta.sh
 	*	1710171741	0

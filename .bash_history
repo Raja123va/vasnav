@@ -187,3 +187,19 @@ git remote add origin https://github.com/Raja123va/Alpha1.git
 git push origin "vasanth"
 git push origin vasanth
 git push origin master
+mkdir alpha
+vi beta.sh
+./beta.sh
+chmod + x beta.sh
+chmod +x beta.sh
+./sh
+./beta.sh
+git add .
+git status
+git commit -m "commit first"
+git remote add origin https://github.com/Raja123va/vasnav.git
+git push -u origin main
+git push origin master
+git push origin mastergit@github.com:Raja123va/vasnav.git  
+git push origin master git@github.com:Raja123va/vasnav.git      
+clear
