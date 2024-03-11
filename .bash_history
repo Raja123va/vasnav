@@ -130,3 +130,13 @@ clear
 git config global user.name "Raja123va
 clear
 git status
+ls
+git add .
+git status
+git commit -m "first commit"
+git config user.name "Raja123va"
+git config user.email "vasanth9999raja@gmail.com"
+git user
+git config --list
+git push origin "aasignment"
+git push origin master
